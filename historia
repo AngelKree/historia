@@ -10,12 +10,4 @@ echo:
 git init:
 git add:
 git commit -m :
-<<<<<<< HEAD
-:q
-git clonen
-=======
-git clone:
 
-Son los comandos aprendidos
-
->>>>>>> e71ce2cc29c2cb95eae5b0598fa41dfd18dbe5f0
