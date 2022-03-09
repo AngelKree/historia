@@ -10,5 +10,5 @@ echo:
 git init:
 git add:
 git commit -m :
-git clone:
-
+:q
+git clonen
